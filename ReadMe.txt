@@ -1,6 +1,6 @@
-This is the ReadMe file of Gourmet Pittsburgh written in Java as an Android Application. This is a course project for 18-641 (Java Smart Phone Development)
+This is the ReadMe file of Gourmet Pittsburgh written in Java as an Android Application. This is a course team project for 18-641 (Java Smart Phone Development)
 
-In this project, Our teams(with teammates Haoran Yu and Run Yang) implemented a featured Yelp-like C2C(both customer and restaurants) food Android application.
+In this project, Our teams(with teammates Haoran Yu and Run Yang) implemented a featured Yelp-like C2C(both customers and restaurants) food Android application.
 
 
 Main Features(Other than basic features):
