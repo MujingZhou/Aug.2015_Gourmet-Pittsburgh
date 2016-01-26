@@ -1,0 +1,347 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="com.example.user.gourmetpitt.ui.BusinessRestActivity"
+    android:id="@+id/relative_edit">
+
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/image_edit_delete" />
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/image_edit_edit" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:id="@+id/imageView32"
+            android:background="@drawable/myrest_name"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="20dp" />
+
+        <EditText
+            android:layout_width="280dp"
+            android:layout_height="80dp"
+            android:id="@+id/business_edit_restName"
+            android:textSize="50dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="20dp" />
+    </LinearLayout>
+
+    <Button
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:text="OK"
+        android:id="@+id/buttonEditOk"
+        android:layout_alignParentRight="true"
+        android:textSize="40dp"
+        android:onClick="onClickEditOK"
+        android:textColor="#ffffffff"
+        android:background="#ff2697ff"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1"
+        android:layout_marginTop="120dp">
+
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:id="@+id/imageView30"
+            android:background="@drawable/edit_rate"
+            android:layout_marginLeft="100dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textRating"
+            android:gravity="center_vertical"
+            android:textSize="30dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="17dp" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/star1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="17dp" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/star2"
+            android:layout_marginTop="17dp" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/star3"
+            android:layout_marginTop="17dp" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/star4"
+            android:layout_marginTop="17dp" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/star5"
+            android:layout_marginTop="17dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:paddingTop="20dp"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout3"
+        android:layout_marginTop="200dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearlayout_edit">
+
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="250dp"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:id="@+id/imageView31"
+                    android:background="@drawable/edit_favorite" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Dishes"
+                    android:id="@+id/textView12"
+                    android:textSize="30dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp" />
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:id="@+id/imageView33"
+                    android:background="@drawable/edit_dish_add"
+                    android:layout_marginLeft="20dp" />
+            </LinearLayout>
+
+            <ListView
+                android:layout_width="260dp"
+                android:layout_height="300dp"
+                android:id="@+id/dishList" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="280dp"
+            android:layout_height="340dp"
+            android:layout_below="@+id/linearLayout2"
+            android:layout_toEndOf="@+id/linearLayout3"
+            android:layout_marginLeft="20dp">
+
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:id="@+id/image_edit_phone"
+                    android:background="@drawable/myrest_tele" />
+
+                <EditText
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/editableTel"
+                    android:textSize="30dp"
+                    android:layout_marginLeft="10dp"
+                    android:numeric="integer"
+                    android:inputType="phone|number"
+                    android:textStyle="italic" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:id="@+id/image_edit_location"
+                    android:background="@drawable/myrest_location" />
+
+                <EditText
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/editableLocation"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="30dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editLinearOpenHour">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:id="@+id/image_edit_openHour"
+                    android:background="@drawable/myrest_openhour" />
+
+                <EditText
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/editableOpenHour"
+                    android:textSize="30dp"
+                    android:layout_marginLeft="10dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/linearLayout4" >
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:id="@+id/image_edit_flavor"
+                    android:background="@drawable/myrest_flavor" />
+
+                <EditText
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/editableFlavor"
+                    android:textSize="30dp"
+                    android:layout_marginLeft="10dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:id="@+id/imageView29"
+                    android:background="@drawable/edit_review" />
+
+                <TextView
+                    android:layout_width="260dp"
+                    android:layout_height="wrap_content"
+                    android:text="Reviews"
+                    android:id="@+id/textView15"
+                    android:textSize="30dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="10dp" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="150dp">
+
+                <ListView
+                    android:layout_width="260dp"
+                    android:layout_height="150dp"
+                    android:id="@+id/listView3"
+                    android:smoothScrollbar="true" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout"
+        android:layout_marginTop="600dp">
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="200dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Photos"
+            android:id="@+id/textView16"
+            android:gravity="center_vertical|center_horizontal" />
+
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/horizontalScrollView">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:layout_alignBottom="@+id/linearLayout"
+            android:layout_toEndOf="@+id/linearLayout">
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:id="@+id/imageView18"
+                android:src="@drawable/rest1" />
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:id="@+id/imageView19"
+                android:src="@drawable/rest2" />
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:id="@+id/imageView20"
+                android:src="@drawable/rest3" />
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:id="@+id/imageView21"
+                android:src="@drawable/rest4" />
+
+        </LinearLayout>
+
+        </HorizontalScrollView>
+
+    </LinearLayout>
+
+
+</RelativeLayout>
