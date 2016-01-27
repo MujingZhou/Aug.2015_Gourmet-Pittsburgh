@@ -64,7 +64,6 @@ public class BusinessCreateRestaurant extends Activity {
         }
 
         //set amazons3client
-        amazonclient = new AmazonS3Client(new BasicAWSCredentials("AKIAIYSC6ORMFNV5GQ4Q","PJcX1hZslfMH/yoDUMOLvkuhnAuk0J3qvhkxX2pT")) ;
 
 
         resname = (EditText)findViewById(R.id.editName);
