@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-eb8a1615118335da6a38042d0c1da4819983346f.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-9b5bf62e9bade7614f7f470b778b63cac15f8a11.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/aws-android-sdk-mobileanalytics-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f52e330e9969979567bb436a5dc241d74b705958">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/aws-android-sdk-mobileanalytics-2.2.4-9ce0258c79ad1d99363235d308beaad773636707.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/aws-android-sdk-sqs-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aff1d7ed46e1ad2c4fb70ea6e3154e440589f797">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/aws-android-sdk-sqs-2.2.4-431b84695a1d30a8747c7f1c40b576dafc345110.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/aws-android-sdk-sdb-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa98c2381d3d3fede5c76bb3439c7df3459d3f4f">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/aws-android-sdk-sdb-2.2.4-2645ac407d7dfa4565d5cefc9cbb361743498f51.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/additionnal.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/additionnal-b3cea65208f0502dbc19492aaef552d7dfd2b20b.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/aws-android-sdk-s3-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8275fef875a1d26eec7d6e39304199a5203e34b1">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/aws-android-sdk-s3-2.2.4-030a62f8a36b2dc3fb00b4b4bf5c598353fa1743.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/aws-android-sdk-elb-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="baefa478420b9aafcbc5d79330a7abb7ca5e237c">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/aws-android-sdk-elb-2.2.4-8efd616194f4007faf7c83d036820b0935389907.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-b6c6d97a7663a5dbacebb55398527324f1eabfa9.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/mail.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/mail-5540011190b1c14e3658f29a59cabf929557a2fd.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-9c40106a0436fb1cd3fa3b34a8225f2f04060fe7.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/aws-android-sdk-lambda-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02b8cd5159c1fb5bd63b0d535027ec60a6f66f03">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/aws-android-sdk-lambda-2.2.4-6c9067dec60b22e1cfe84528cb633363b13da000.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-e4ef2169af8c4ec2608705ec5c06e838a97e1721.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-06f356ce6c56b1b35736a856bb5f55146802ebe9.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-c092af1728e829f75d694498b0e5ccd96d52500f.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-3119a970df4734e4dc49bd9763b8d37d4e0ca881.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-ea9e571b72c59028570d290ca33a8c8280f69b41.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-ac3bb3c8d96325f285c3a6d81666927b6ac25df0.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-b17c5b51068fda1e5f498e9587ef35291261dfde.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-dd10f4fc7f82156968098cc23eb7562f93b635c9.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/aws-android-sdk-ses-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9166121d2716b31bd39325983d7aad61fe957ea9">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/aws-android-sdk-ses-2.2.4-2297f95ca15a89b784053e9781e0935d0de64a7c.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-c2b5917d965437884b7f2275fc26a9d5842a9fa7.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-4415417ec5817bf42d57c7778c09bdfc751d7ffa.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-8a83cbc361a8572615a135c170e2b02feb7d88a4.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/aws-android-sdk-ec2-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85546463d14cf4dd08267873357a3c0f5ee00ba9">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/aws-android-sdk-ec2-2.2.4-91b8e2fe88424400792c7618d58339ae4f7c2f88.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-45d860f948d64250e0eff7e0a0e3299a6915a000.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-e3d4bd616062e75afd794ec509db6429f1e37481.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-9c7f592a701f90e28baabfc4ca4d34e466117812.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/aws-android-sdk-autoscaling-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3d92559717af56bb65f53d69a83e1d79fcbdac5b">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/aws-android-sdk-autoscaling-2.2.4-069bbaa66875a34cafdcdb5d9cdcb2afa750985f.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/aws-android-sdk-kinesis-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272b7c8ec2a78ab5ed418e2416178ab7ebb824d1">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/aws-android-sdk-kinesis-2.2.4-4f450416875d58a7abdccd35c6be11edff55805c.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/activation.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/activation-5166ea82f22de08ba4159d8ab7ad877f316f960b.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-1aabfb479beeb1d4d15704d7b5142d346e60bc15.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/aws-android-sdk-ddb-mapper-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="90c7c339c1d44e7925369d9b04e2f52f7c7c3294">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/aws-android-sdk-ddb-mapper-2.2.4-50ee001873806823da7b2b642cced50fcbb16a9c.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/aws-android-sdk-core-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29d8f4fbf3327e9a8951cf39255c8d3f49af0fcf">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/aws-android-sdk-core-2.2.4-b850860b864b96c99a1167af0925ab54517d0564.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-b10bb2b76c024f6fa19e4fbc82a5dfcbe89b40b5.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/aws-android-sdk-ddb-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f406e750a76d6dde540924e2936a1992af2c15ed">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/aws-android-sdk-ddb-2.2.4-bcf61701a74e00c6cf432f456fe298209521882f.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-9ca63cc118b21acca894d24c8efabe90dfbf7dfb.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-4a875b59aec38fa0d9a61bd94e1df0b1668fc532.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/aws-android-sdk-cloudwatch-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe30c0f22e600185cda7403322413d2803470e74">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/aws-android-sdk-cloudwatch-2.2.4-f680ba7fa8be445b6908151077b7781ee4464e95.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-850d57b26861e641e3fac1b97d39bb80123c9901.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-5e79d75e0aad5494ccde461c1f470ca3b8c6ecb9.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/aws-android-sdk-machinelearning-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="56405e28ab8809fd8b559e3b016e86c3a61cdc26">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/aws-android-sdk-machinelearning-2.2.4-178d4c744a66b30d275d8fc4f4b1ce938e4625b5.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/aws-android-sdk-apigateway-core-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="38f32161a8c4d4813c4620aa1aacaf543351566a">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/aws-android-sdk-apigateway-core-2.2.4-4339673316e6b58ed6c326dd601211aa3cd83301.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-7903e6f97fdbb011648fcc01234557ab88fe2a98.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/classes-f7eb4d2e5c4849b73b1c33c8ce527e93b5a3efa9.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/libs/aws-android-sdk-sns-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f19362cacedb7328e7979dea0ebcde5233d47158">
+        <dex dex="/Users/zhoumujing/Desktop/untitled folder/GourmetPitt3 6/app/build/intermediates/pre-dexed/debug/aws-android-sdk-sns-2.2.4-90ab50e612a67662acb3278a94cad4dbacef6abd.jar/classes.dex" />
+    </item>
+
+</items>
