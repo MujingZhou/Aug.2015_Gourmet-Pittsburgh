@@ -1,2 +1,0 @@
-insert into Restaurant(UserID,RestaurantName,Telephone,Location,OpenHour,AverageRating,NumberOfRates) values(1234,'RoseTea',412412,'SouthCraig','8.00-18:00',8.5,100);
-select ID from Restaurant where RestName=?;
