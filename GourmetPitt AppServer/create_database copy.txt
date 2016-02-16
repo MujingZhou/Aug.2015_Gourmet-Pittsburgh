@@ -1,0 +1,4 @@
+use rest;
+create table if not exists Restaurant(ID int(10) unsigned auto_increment primary key not null,UserID int(10) unsigned not null,RestaurantName varchar(100) not null,Telephone int(15) unsigned not null,Location varchar(100) not null,OpenHour varchar(100) not null,Flavor varchar(100) not null, AverageRating float not null,NumberOfRates int(10) unsigned not null);
+create table if not exists Dishes(ID int(10) unsigned auto_increment primary key not null,RestaurantID int(10) unsigned not null,DishName varchar(100) not null);
+create table if not exists Users(userid int not null primary key auto_increment, username char(40), password char(20), identification char(20), flavor char(20) )ENGINE=InnoDB DEFAULT CHARSET=latin1;
