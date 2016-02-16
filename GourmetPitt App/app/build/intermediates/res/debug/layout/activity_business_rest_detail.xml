@@ -1,0 +1,330 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="com.example.user.gourmetpitt.ui.BusinessRestDetailActivity"
+    android:id="@+id/relative_edit2">
+
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/image_edit_delete2" />
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/image_edit_edit2" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:id="@+id/image_detail_restName"
+            android:background="@drawable/myrest_name"
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="20dp" />
+
+        <TextView
+            android:layout_width="280dp"
+            android:layout_height="80dp"
+            android:id="@+id/business_detail_restName"
+            android:textSize="50dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="20dp"
+            android:onClick="onClickReservation" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout_detail"
+        android:layout_marginTop="120dp">
+
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:id="@+id/imageView_detail_star"
+            android:background="@drawable/edit_rate"
+            android:layout_marginLeft="70dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textRating2"
+            android:gravity="center_vertical"
+            android:textSize="30dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="17dp" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/star1_2"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="17dp" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/star2_2"
+            android:layout_marginTop="17dp" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/star3_2"
+            android:layout_marginTop="17dp" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/star4_2"
+            android:layout_marginTop="17dp" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/star5_2"
+            android:layout_marginTop="17dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:paddingTop="20dp"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout_detail2"
+        android:layout_marginTop="200dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearlayout_detail3">
+
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="250dp"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:id="@+id/imageView_detail_dish"
+                    android:background="@drawable/edit_favorite" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Dishes"
+                    android:id="@+id/textView_detail_dish"
+                    android:textSize="30dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp" />
+
+            </LinearLayout>
+
+            <ListView
+                android:layout_width="260dp"
+                android:layout_height="300dp"
+                android:id="@+id/dishList_detail" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="280dp"
+            android:layout_height="340dp"
+            android:layout_below="@+id/linearLayout_detail"
+            android:layout_toEndOf="@+id/linearlayout_detail3"
+            android:layout_marginLeft="20dp"
+            android:id="@+id/detail_infoList">
+
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/detail_linear_tel">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:id="@+id/image_detail_phone"
+                    android:background="@drawable/myrest_tele" />
+
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/detail_tele"
+                    android:textSize="30dp"
+                    android:layout_marginLeft="10dp"
+                    android:numeric="integer"
+                    android:textStyle="italic" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:id="@+id/image_detail_location"
+                    android:background="@drawable/myrest_location" />
+
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/detailLocation"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="30dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:id="@+id/image_detail_openHour"
+                    android:background="@drawable/myrest_openhour" />
+
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/detailOpenHour"
+                    android:textSize="30dp"
+                    android:layout_marginLeft="10dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:id="@+id/image_detail_flavor"
+                    android:background="@drawable/myrest_flavor" />
+
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/detailFlavor"
+                    android:textSize="30dp"
+                    android:layout_marginLeft="10dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:id="@+id/image_detail_review"
+                    android:background="@drawable/edit_review" />
+
+                <TextView
+                    android:layout_width="260dp"
+                    android:layout_height="wrap_content"
+                    android:text="Reviews"
+                    android:id="@+id/textView_detail_review"
+                    android:textSize="30dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="10dp" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="150dp">
+
+                <ListView
+                    android:layout_width="260dp"
+                    android:layout_height="150dp"
+                    android:id="@+id/listView_detail_review"
+                    android:smoothScrollbar="true" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout_detail_photo"
+        android:layout_marginTop="600dp">
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="200dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Photos"
+            android:id="@+id/textView_detail_photo"
+            android:gravity="center_vertical|center_horizontal" />
+
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/horizontalScrollView2">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_alignBottom="@+id/linearLayout"
+                android:layout_toEndOf="@+id/linearLayout">
+
+                <ImageView
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:id="@+id/imageView18"
+                    android:src="@drawable/rest1" />
+
+                <ImageView
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:id="@+id/imageView19"
+                    android:src="@drawable/rest2" />
+
+                <ImageView
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:id="@+id/imageView20"
+                    android:src="@drawable/rest3" />
+
+                <ImageView
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:id="@+id/imageView21"
+                    android:src="@drawable/rest4" />
+
+            </LinearLayout>
+
+        </HorizontalScrollView>
+
+    </LinearLayout>
+
+
+</RelativeLayout>
+
+<!-- From: file:/Users/User/Downloads/GourmetPitt3%206/app/src/main/res/layout/activity_business_rest_detail.xml -->
